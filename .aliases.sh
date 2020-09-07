@@ -77,3 +77,5 @@ scut () { #shortcut
 alias pf="cd /home/ubuntu/portfolio && l"
 alias pcs="cd /home/ubuntu/portfolio/postgres-pcbflow/api && l"
 alias pts="cd /home/ubuntu/portfolio/postgres-pomtracker && l"
+alias sb="cd /home/ubuntu/sandbox && l"
+alias space="cd /home/ubuntu/sandbox/disk_space_alert && l"
